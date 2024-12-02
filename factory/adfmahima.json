@@ -1,0 +1,9 @@
+{
+	"name": "adfmahima",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b121663-f1b8-41e5-adec-cdad95bad102",
+		"tenantId": "846a0d15-e140-4095-a8b2-98737fcc2d86"
+	}
+}
